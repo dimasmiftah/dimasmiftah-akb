@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dimas Miftah</string>
+
+    <!--fragment home, fragment profile-->
+    <string name="welcome">Selamat datang!</string>
+    <string name="namahead">Dimas Miftahul Huda</string>
+    <string name="nimhead">10118087</string>
+    <string name="title_aboutme">Tentang Saya</string>
+    <string name="title_contactme">Kontak Saya</string>
+    <string name="title_activity">Kegiatan Harian</string>
+    <string name="title_friends">Teman Saya</string>
+    <string name="title_music">Lagu Favorit</string>
+    <string name="title_video">Video Favorit</string>
+    <string name="title_gallery">Galeri Saya</string>
+    <string name="phone">085157478077</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="aboutme">Mahasiswa Teknik Informatika. Berfokus pada Web Development dan memiliki ketertarikan terhadap UX Design.</string>
+    <string name="namalengkap">Nama: Dimas Miftahul Huda</string>
+    <string name="nim">NIM: 10118087</string>
+    <string name="kelas">Kelas: IF-2</string>
+    <string name="jeniskelamin">Jenis Kelamin: Laki-laki</string>
+    <string name="ttl">TTL: Sumedang, 1 Maret 2000</string>
+    <string name="hobi">Hobi: Nonton Film</string>
+    <string name="makananfavorit">Makanan Kesukaan: Nasi Putih</string>
+    <string name="minumanfavorit">Minuman Kesukaan: Air Putih</string>
+    <string name="lagufavorit">Lagu Favorit: Halu - Feby Putri</string>
+    <string name="filmfavorit">Film Favorit: Haikyu!!</string>
+    <string name="citacita">Cita-cita: Software Engineer</string>
+    <string name="alamat">Alamat: Jl. Malaka 4 No. 42, Rorotan, Cilincing, Jakarta Utara</string>
+</resources>
